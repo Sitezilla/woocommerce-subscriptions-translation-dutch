@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: WooCommerce - Extensions - WooCommerce Subscriptions\n"
 "Report-Msgid-Bugs-To: https://woocommerce.com/contact-us\n"
 "POT-Creation-Date: 2024-06-28T01:10:56+00:00\n"
-"PO-Revision-Date: 2024-07-15 13:57+0200\n"
+"PO-Revision-Date: 2024-07-15 14:02+0200\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: nl\n"
@@ -751,7 +751,7 @@ msgstr "live"
 
 #: includes/api/class-wc-rest-subscription-system-status-manager.php:106
 msgid "Subscriptions."
-msgstr "Abonnementen"
+msgstr "Abonnementen."
 
 #: includes/api/class-wc-rest-subscription-system-status-manager.php:112
 msgid "WCS debug constant."
@@ -803,7 +803,7 @@ msgstr "Abonnementsdata konden niet worden ingesteld. Foutmelding: %s"
 #: includes/api/class-wc-rest-subscriptions-controller.php:364
 #: includes/api/v2/class-wc-rest-subscriptions-v2-controller.php:371
 msgid "Subscription status."
-msgstr "Abonnementsstatus"
+msgstr "Abonnementsstatus."
 
 #: includes/api/class-wc-rest-subscriptions-controller.php:367
 #: includes/api/v2/class-wc-rest-subscriptions-v2-controller.php:374
@@ -1103,7 +1103,7 @@ msgstr "Item ID."
 
 #: includes/api/v1/class-wc-rest-subscriptions-v1-controller.php:586
 msgid "Product name."
-msgstr "Productnaam"
+msgstr "Productnaam."
 
 #: includes/api/v1/class-wc-rest-subscriptions-v1-controller.php:592
 msgid "Product SKU."
@@ -1151,7 +1151,7 @@ msgstr "Regel-belastingen."
 
 #: includes/api/v1/class-wc-rest-subscriptions-v1-controller.php:653
 msgid "Tax rate ID."
-msgstr "Belastingtarief-ID"
+msgstr "BTW-ID."
 
 #: includes/api/v1/class-wc-rest-subscriptions-v1-controller.php:659
 msgid "Tax total."
@@ -1512,7 +1512,7 @@ msgstr ""
 
 #: includes/class-wcs-upgrade-notice-manager.php:95
 msgid "WooCommerce checkout and cart blocks integration"
-msgstr "Integratie van de WooCommerce-afreken- en -winkelwagenblokken."
+msgstr "Integratie van de WooCommerce-afreken- en -winkelwagenblokken"
 
 #. translators: 1-2: opening/closing <a> tags - link to documentation.
 #: includes/class-wcs-upgrade-notice-manager.php:98
@@ -1537,19 +1537,19 @@ msgstr "Meer weten"
 
 #: includes/class-wcs-webhooks.php:108
 msgid " Subscription created"
-msgstr "Abonnement aangemaakt"
+msgstr " Abonnement aangemaakt"
 
 #: includes/class-wcs-webhooks.php:109
 msgid " Subscription updated"
-msgstr "Abonnement bijgewerkt"
+msgstr " Abonnement bijgewerkt"
 
 #: includes/class-wcs-webhooks.php:110
 msgid " Subscription deleted"
-msgstr "Abonnement verwijderd"
+msgstr " Abonnement verwijderd"
 
 #: includes/class-wcs-webhooks.php:111
 msgid " Subscription switched"
-msgstr "Abonnement gewisseld"
+msgstr " Abonnement gewisseld"
 
 #: includes/class-wcs-zero-initial-payment-checkout-manager.php:30
 msgid "$0 Initial Checkout"
@@ -1671,7 +1671,7 @@ msgstr "Vroegtijdig verlengen"
 #: includes/early-renewal/class-wcs-early-renewal-modal-handler.php:73
 #: vendor/woocommerce/subscriptions-core/includes/admin/meta-boxes/views/html-subscription-schedule.php:24
 msgid "Payment:"
-msgstr "Betaling"
+msgstr "Betaling:"
 
 #: includes/early-renewal/class-wcs-early-renewal-modal-handler.php:107
 #: vendor/woocommerce/subscriptions-core/includes/class-wc-subscriptions-change-payment-gateway.php:226
@@ -2359,7 +2359,7 @@ msgstr ""
 
 #: templates/html-early-renewal-modal-content.php:34
 msgid "Want to renew early via the checkout? Click %shere.%s"
-msgstr "Wil je vroegtijdig verlengen tijdens het afrekenen? Klik %shier.%s"
+msgstr "Wil je vroegtijdig verlengen tijdens het afrekenen? Klik %shere.%s"
 
 #. translators: 1: relation type, 2: list of valid relation types.
 #: vendor/woocommerce/subscriptions-core/includes/abstracts/abstract-wcs-related-order-store.php:148
@@ -2426,7 +2426,7 @@ msgstr "Abonnementsduur"
 #: vendor/woocommerce/subscriptions-core/includes/admin/class-wc-subscriptions-admin.php:485
 #: vendor/woocommerce/subscriptions-core/templates/admin/html-variation-price.php:66
 msgid "Stop renewing after"
-msgstr "niet verlengen na"
+msgstr "Niet verlengen na"
 
 #: vendor/woocommerce/subscriptions-core/includes/admin/class-wc-subscriptions-admin.php:347
 msgid ""
@@ -3246,7 +3246,7 @@ msgstr "Herstellen"
 
 #: vendor/woocommerce/subscriptions-core/includes/admin/class-wcs-admin-post-types.php:1413
 msgid "Move this item to the Trash"
-msgstr "Dit item naar de prullenbak verplaatsen."
+msgstr "Dit item naar de prullenbak verplaatsen"
 
 #: vendor/woocommerce/subscriptions-core/includes/admin/class-wcs-admin-post-types.php:1427
 msgid "Delete this item permanently"
@@ -3428,7 +3428,7 @@ msgstr "Abonnementsstatus:"
 
 #: vendor/woocommerce/subscriptions-core/includes/admin/meta-boxes/class-wcs-meta-box-subscription-data.php:123
 msgid "Parent order: "
-msgstr "Bovenliggende bestelling:"
+msgstr "Bovenliggende bestelling: "
 
 #. translators: placeholder is an order number.
 #: vendor/woocommerce/subscriptions-core/includes/admin/meta-boxes/class-wcs-meta-box-subscription-data.php:127
@@ -3501,7 +3501,7 @@ msgstr "Kopieer factuuradres"
 
 #: vendor/woocommerce/subscriptions-core/includes/admin/meta-boxes/class-wcs-meta-box-subscription-data.php:267
 msgid "No shipping address set."
-msgstr "Geen verzendadres ingesteld"
+msgstr "Geen verzendadres ingesteld."
 
 #: vendor/woocommerce/subscriptions-core/includes/admin/meta-boxes/class-wcs-meta-box-subscription-data.php:289
 #: vendor/woocommerce/subscriptions-core/includes/admin/meta-boxes/class-wcs-meta-box-subscription-data.php:325
@@ -3644,7 +3644,7 @@ msgstr ""
 #: vendor/woocommerce/subscriptions-core/includes/class-wc-subscription.php:1451
 #: vendor/woocommerce/subscriptions-core/includes/class-wc-subscription.php:2570
 msgid "Subscription #%d: "
-msgstr "Abonnementnummer%d:"
+msgstr "Abonnementnummer%d: "
 
 #: vendor/woocommerce/subscriptions-core/includes/class-wc-subscription.php:1865
 msgid "Payment status marked complete."
@@ -3936,7 +3936,7 @@ msgstr ""
 #. translators: placeholder is next payment's date
 #: vendor/woocommerce/subscriptions-core/includes/class-wc-subscriptions-change-payment-gateway.php:184
 msgid " Next payment is due %s."
-msgstr "Volgende betaling is op %s."
+msgstr " Volgende betaling is op %s."
 
 #. translators: placeholder is either empty or "Next payment is due..."
 #: vendor/woocommerce/subscriptions-core/includes/class-wc-subscriptions-change-payment-gateway.php:190
@@ -4709,7 +4709,7 @@ msgstr "Bovenliggende bestelling"
 #. translators: %1$s refers to the price. This string is meant to prefix another string below, e.g. "$5 now, and $5 on March 15th each year"
 #: vendor/woocommerce/subscriptions-core/includes/class-wc-subscriptions-product.php:293
 msgid "%1$s now, and "
-msgstr "%1$s nu, en"
+msgstr "%1$s nu, en "
 
 #. translators: 1$: recurring amount string, 2$: day of the week (e.g. "$10 every Wednesday").
 #. translators: 1$: recurring amount string, 2$: day of the week (e.g. "$10 every Wednesday")
@@ -6206,7 +6206,7 @@ msgstr "Onbekende fout"
 #: vendor/woocommerce/subscriptions-core/templates/admin/deprecated/order-tax-html.php:9
 msgctxt "no information about something"
 msgid "N/A"
-msgstr "/N.v.t."
+msgstr "N.v.t."
 
 #: vendor/woocommerce/subscriptions-core/includes/gateways/paypal/includes/class-wcs-paypal-reference-transaction-ipn-handler.php:94
 msgid "Billing agreement cancelled at PayPal."
@@ -6287,15 +6287,15 @@ msgstr ""
 
 #: vendor/woocommerce/subscriptions-core/includes/gateways/paypal/includes/class-wcs-paypal-status-manager.php:42
 msgid "Subscription cancelled with PayPal."
-msgstr "Abonnement geannuleerd met PayPal"
+msgstr "Abonnement geannuleerd met PayPal."
 
 #: vendor/woocommerce/subscriptions-core/includes/gateways/paypal/includes/class-wcs-paypal-status-manager.php:53
 msgid "Subscription suspended with PayPal."
-msgstr "Abonnement stopgezet met PayPal"
+msgstr "Abonnement stopgezet met PayPal."
 
 #: vendor/woocommerce/subscriptions-core/includes/gateways/paypal/includes/class-wcs-paypal-status-manager.php:66
 msgid "Subscription reactivated with PayPal."
-msgstr "Abonnement opnieuw geactiveerd met PayPal"
+msgstr "Abonnement opnieuw geactiveerd met PayPal."
 
 #: vendor/woocommerce/subscriptions-core/includes/gateways/paypal/includes/class-wcs-paypal-status-manager.php:113
 msgid "PayPal API error - credentials are incorrect."
@@ -6501,7 +6501,7 @@ msgstr ""
 
 #: vendor/woocommerce/subscriptions-core/includes/privacy/class-wcs-privacy.php:270
 msgid "N/A"
-msgstr "/N.v.t."
+msgstr "N.v.t."
 
 #: vendor/woocommerce/subscriptions-core/includes/privacy/class-wcs-privacy.php:311
 msgid "Customers with a subscription are excluded from this setting."
@@ -6568,7 +6568,7 @@ msgid " %d other subscription was checked and did not need any repairs."
 msgid_plural ""
 "%d other subscriptions were checked and did not need any repairs."
 msgstr[0] ""
-"%d ander abonnement is gecontroleerd en er hoefde niets aangepast te worden."
+" %d ander abonnement is gecontroleerd en er hoefde niets aangepast te worden."
 msgstr[1] ""
 "%d andere abonnementen zijn gecontroleerd en er hoefde niets aangepast te "
 "worden."
@@ -6962,7 +6962,7 @@ msgid ""
 "just like you (and possibly even by %syou%s)."
 msgstr ""
 "Versie 2.1 bevat een aantal geweldige nieuwe functies die winkelmanagers "
-"zoals jij (en mogelijk zelfs door %sjou%s) hebben aangevraagd."
+"zoals jij (en mogelijk zelfs door %syou%s) hebben aangevraagd."
 
 #: vendor/woocommerce/subscriptions-core/includes/upgrades/templates/wcs-about.php:35
 msgctxt "short for documents"
@@ -8745,7 +8745,7 @@ msgstr "via %s"
 #. Translators: %1$s is a date.
 #: vendor/woocommerce/subscriptions-core/build/index.js:9
 msgid "Due: %1$s"
-msgstr "te voldoen: %1$s"
+msgstr "Te voldoen: %1$s"
 
 #. Translators: %1$s is a date.
 #: vendor/woocommerce/subscriptions-core/build/index.js:11
